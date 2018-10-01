@@ -190,4 +190,51 @@ Server:
 
 # Types of Websites
 
--
+- Static Websites
+All HTML content is created and saved on server
+
+-Dynamic Website
+Content is generated on demand for each user
+
+-Responsive
+Reacts to user and his screen size
+
+# Restful APIs
+
+-A contract between servers and clients
+
+-GET
+
+-POST
+
+-PUT
+
+-DELETE
+
+-PATCH
+
+# Data exchange formats
+
+-JSON
+
+-XML
+
+# Website design principles
+
+-Reactive websites
+
+-Single-Page Applications
+
+-MVP,MVC,MVVM and MV*architectures
+
+-Web Application Frameworks
+
+# Latest developments
+
+-VirtualDOM,ShadowDOM
+
+-Sockets
+
+-Pub/Sub,Push Notifications
+
+-Browser Native APIs(Location,User data)
