@@ -18,3 +18,13 @@
 1972-University Internet Nodes,UCLA Chat
 
 1974-Vint Cerf-TCP
+
+Today we use Router TCP(Transmission Control Protocol) is one of the main protocols of the Internet protocol suite.
+
+# Domain Name Server
+-Phone book of the Internet
+-Maps domains
+-Humans remember domains
+-Computers work with IP
+
+#
