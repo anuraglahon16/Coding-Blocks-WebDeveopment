@@ -73,8 +73,6 @@ Small companies host on amazon,google so that we don't have to work on the hardw
 
 -Human readable web address
 
--<subdomain>.<domain>.<TLD>
-
 -TLD-Top level domain (.org,.com,.net),Country based-.uk,.in,Purpose based-.edu,.acro,.info
 
 # IP Addresses
@@ -129,3 +127,67 @@ Small companies host on amazon,google so that we don't have to work on the hardw
 -One website can be spread over multiple servers
 
 -One server can host multiple websites
+
+# Search Engines
+
+-A website that indexes other websites/webpages
+
+-Helps you find websites
+
+-Uses techniques like 'crawling' to cache content for searching
+
+-google.com,bing.com,yahoo.com
+
+# How web technologies work
+
+Server:
+
+-Hardware,OS,Server Framework,Containers/Servlets,Server Applications
+
+# Server Side Frameworks
+
+-Java: Spring,Play,Jboss
+
+-Python: Flask,Django,Bottle
+
+-Ruby: Rails
+
+-PHP: Codeigniter,Larvel
+
+-Node.js :Express,Hapi.js
+
+# Client Side Technologies
+
+-HTML(Markup)
+
+-CSS(Styling),SASS,LESS
+
+-JavaScript(Scripting/Events):jQuery,Angular,React,Backbone,knockout
+
+# Server-side Databases
+
+-MySQL
+
+-Postgres
+
+-Oracle
+
+-MS Database
+
+-NoSQL:MongoDB,CouchDB,Memcache,Redis
+
+# Client Side Storage
+
+-LocalStorage
+
+-SessionStorage
+
+-Cookies
+
+-indexedDB
+
+-Cache
+
+# Types of Websites
+
+-
