@@ -86,3 +86,46 @@ Small companies host on amazon,google so that we don't have to work on the hardw
 -IPV6 Address-Default in future -128 but(16 octet)
 
 -Ip allows (subnets,Gateways,Private lps)
+
+# MAC Address
+-Media Access Control
+
+-An ID unique to a hardware Network INterface
+
+-Is not dynamic like IP.Is fixed for a hardware device
+
+-Used by all IEEE 802 Network Technologies
+
+# Components of the Web 
+
+-Web Pages
+
+-Web Sites
+
+-Web Servers
+
+-Search Engines
+
+# Web Pages
+
+-A document that can be viewed over web
+
+-Transported over Internet
+
+-Viewed on a browser 
+
+-Uses markup(HTML) and styling can contain scripts
+
+# Web Sites
+
+-Collection of webpages
+
+-Also can include other media(audio,images,video)
+
+# Web Servers
+
+-A hardware(or software) that hosts the website
+
+-One website can be spread over multiple servers
+
+-One server can host multiple websites
